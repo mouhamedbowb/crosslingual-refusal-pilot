@@ -1,0 +1,15 @@
+# model outputs to unsafe prompts are not published in bulk
+results/raw/
+results/mock/
+results/mock_summary/
+annotation/mock/
+annotation/to_label.csv
+annotation/labeled.csv
+annotation/key.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# local Python virtual environment
+aixamine/
+.venv/
